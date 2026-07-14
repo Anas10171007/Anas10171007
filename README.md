@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Anas&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20in%20Progress%20%7C%20AI%20%26%20Automation%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+# Muhammad Anas
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=650&lines=Learning+Full+Stack+Development;Exploring+AI+Automation;Turning+Data+into+Decisions;Building+and+Learning+Every+Day" alt="Typing SVG" />
-</a>
-
-<br/>
+**Learning Full Stack Development | Interested in AI Automation and Data Analytics**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anas10171007)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadanas101700)
@@ -58,9 +54,6 @@
 **AI / ML & Automation**
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
-<br/>
-<img src="https://img.shields.io/badge/AI%20Automation-6C63FF?style=for-the-badge&logo=OpenAI&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-00C7B7?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 
 **Tools & Editors**
 
@@ -84,21 +77,5 @@
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Anas10171007&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### Connect
-
-If you would like to collaborate, discuss a project, or connect professionally, feel free to reach out.
-
-[![GitHub](https://img.shields.io/badge/Follow%20me%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anas10171007)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadanas101700)
-[![Email](https://img.shields.io/badge/Say%20Hi%20via%20Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:useannas3@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
