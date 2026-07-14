@@ -22,21 +22,20 @@
 
 <br/>
 
-## 🧑‍💻 About Me
+##  About Me
 
 <img align="right" src="https://skillicons.dev/icons?i=react,tailwind,cpp,cs,postgres,dotnet,python" width="220"/>
 
-- 🔭 Currently **learning Backend Development** at **Tetra Technology**
-- 🧰 Working with **React.js, Tailwind CSS, C++, C#, PostgreSQL, .NET, and Python**
-- 🤖 Actively **exploring AI Automation** — building smart workflows and intelligent tools
-- 📊 Growing my interest in **Data Analytics** — finding stories hidden in data
-- 🌱 Currently sharpening backend fundamentals + system design
-- 💬 Ask me about **React, .NET, C#, or PostgreSQL**
-- ⚡ Fun fact: I enjoy turning half-finished ideas into working prototypes
+-  Currently **learning Backend Development** at **Tetra Technology**
+-  Working with **React.js, Tailwind CSS, C++, C#, PostgreSQL, .NET, and Python**
+-  Actively **exploring AI Automation** building smart workflows and intelligent tools
+-  Growing my interest in **Data Analytics** — finding stories hidden in data
+-  Currently sharpening backend fundamentals + system design
+
 
 <br clear="right"/>
 
-## 🛠️ Skills Showcase
+## Skills
 
 <div align="center">
 
