@@ -74,8 +74,4 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anas10171007&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anas10171007&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-
 </div>
