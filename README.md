@@ -29,7 +29,7 @@
 -  Currently **learning Backend Development** at **Tetra Technology**
 -  Working with **React.js, Tailwind CSS, C++, C#, PostgreSQL, .NET, and Python**
 -  Actively **exploring AI Automation** building smart workflows and intelligent tools
--  Growing my interest in **Data Analytics** — finding stories hidden in data
+-  Growing my interest in **Data Analytics** 
 -  Currently sharpening backend fundamentals + system design
 
 
@@ -70,7 +70,7 @@
 
 <br/>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -91,7 +91,7 @@
 
 <div align="center">
 
-### 📫 Let's Connect
+###  Let's Connect
 
 If you'd like to collaborate, discuss a project, or just say hi — my inbox is always open.
 
