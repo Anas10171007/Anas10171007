@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Anas&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20in%20Progress%20%7C%20AI%20%26%20Automation%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=650&lines=Learning+Full+Stack+Development+%F0%9F%92%BB;Exploring+AI+Automation+%F0%9F%A4%96;Turning+Data+into+Decisions+%F0%9F%93%8A;Building+%2C+Breaking+%2C+and+Learning+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=650&lines=Learning+Full+Stack+Development;Exploring+AI+Automation;Turning+Data+into+Decisions;Building+and+Learning+Every+Day" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,20 +22,20 @@
 
 <br/>
 
-##  About Me
+## About Me
 
 <img align="right" src="https://skillicons.dev/icons?i=react,tailwind,cpp,cs,postgres,dotnet,python" width="220"/>
 
--  Currently **learning Backend Development** at **Tetra Technology**
--  Working with **React.js, Tailwind CSS, C++, C#, PostgreSQL, .NET, and Python**
--  Actively **exploring AI Automation** building smart workflows and intelligent tools
--  Growing my interest in **Data Analytics** 
--  Currently sharpening backend fundamentals + system design
-
+- Currently learning Backend Development at Tetra Technology
+- Working with React.js, Tailwind CSS, C++, C#, PostgreSQL, .NET, and Python
+- Actively exploring AI Automation, building intelligent workflows and automation tools
+- Growing interest in Data Analytics, extracting insights from data
+- Strengthening backend fundamentals and system design concepts
+- Open to discussing React, .NET, C#, or PostgreSQL
 
 <br clear="right"/>
 
-## Skills
+## Skills Showcase
 
 <div align="center">
 
@@ -70,7 +70,7 @@
 
 <br/>
 
-##  GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -91,15 +91,13 @@
 
 <div align="center">
 
-###  Let's Connect
+### Connect
 
-If you'd like to collaborate, discuss a project, or just say hi — my inbox is always open.
+If you would like to collaborate, discuss a project, or connect professionally, feel free to reach out.
 
-[![GitHub](https://img.shields.io/badge/-Follow%20me%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anas10171007)
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadanas101700)
-[![Email](https://img.shields.io/badge/-Say%20Hi%20via%20Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:useannas3@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=Anas10171007&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views"/>
+[![GitHub](https://img.shields.io/badge/Follow%20me%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anas10171007)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadanas101700)
+[![Email](https://img.shields.io/badge/Say%20Hi%20via%20Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:useannas3@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
